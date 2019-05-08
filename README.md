@@ -1,4 +1,16 @@
-# ETL Project: Parental factors and their impact on child success indicators
+#  ETL Project Report
+## Extract
+Our data formats:
+CSV, XLSX
+
+## Transform
+Data munging in Jupyter Notebook with Pandas.
+
+## Load
+We decided to use a relational database because the information we're gathering can be directly linked together. We have worked with MySQL and SQLITE in this course but chose SQLITE because we're working remotely/separately and its single-file storage format makes it easy to share.
+
+
+# Parental factors and their impact on child success indicators
 
 ## by Himani and Rosina
 
@@ -36,13 +48,3 @@ In a loose exploration of how assorted parenting inputs would affect assorted ch
 2. https://www.kff.org/
 
 
-## Project Report
-## Extract
-Our data formats:
-CSV, XLSX
-
-## Transform
-Data cleaning using Pandas.
-
-## Load
-We decided to use a relational database because the information can be directly related to each other. We have worked with MySQL and SQLITE but chose SQLITE because we're working remotely/separately and its single-file storage format makes it easy to share.

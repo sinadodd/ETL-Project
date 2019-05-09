@@ -18,7 +18,7 @@ The raw data provided more information than we wanted, including data for many y
 
 Data munging was performed in Jupyter Notebook with Pandas. See the the included Jupyter Notebooks to reproduce the transformation process.
 
-Mostly, this was wittling down the data to only what we needed. There was some datatype conversion and formatting so that percentages are in {:.1%} format.
+Mostly, this was whittling down the data to only what we needed. There was some datatype conversion and formatting so that percentages are in {:.1%} format.
 
 ## L - Load
 

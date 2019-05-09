@@ -2,7 +2,8 @@
 
 ## by Himani and Rosina
 
-In a loose exploration of how assorted parenting inputs would affect assorted child success indicators, we have chosen to zero on in location (states) as a way to generalize and investigate if there might be any correlations.
+### In a loose exploration of how assorted parenting inputs would affect assorted child success indicators, we have chosen to zero in on location (states) as a way to generalize and investigate if there might be any correlations.
+
 
 #  ETL Project Report
 

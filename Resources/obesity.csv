@@ -1,0 +1,157 @@
+LocationType,Location,Gender,TimeFrame,DataFormat,Data
+Nation,United States,Female,2015-2016,Percent,0.29
+Nation,United States,Male,2015-2016,Percent,0.33
+Nation,United States,Total 10 to 17,2015-2016,Percent,0.31
+State,Alabama,Female,2015-2016,Percent,0.35
+State,Alabama,Male,2015-2016,Percent,0.36
+State,Alabama,Total 10 to 17,2015-2016,Percent,0.35
+State,Alaska,Female,2015-2016,Percent,0.21
+State,Alaska,Male,2015-2016,Percent,0.31
+State,Alaska,Total 10 to 17,2015-2016,Percent,0.26
+State,Arizona,Female,2015-2016,Percent,0.21
+State,Arizona,Male,2015-2016,Percent,0.33
+State,Arizona,Total 10 to 17,2015-2016,Percent,0.27
+State,Arkansas,Female,2015-2016,Percent,0.33
+State,Arkansas,Male,2015-2016,Percent,0.35
+State,Arkansas,Total 10 to 17,2015-2016,Percent,0.34
+State,California,Female,2015-2016,Percent,0.27
+State,California,Male,2015-2016,Percent,0.36
+State,California,Total 10 to 17,2015-2016,Percent,0.31
+State,Colorado,Female,2015-2016,Percent,0.3
+State,Colorado,Male,2015-2016,Percent,0.24
+State,Colorado,Total 10 to 17,2015-2016,Percent,0.27
+State,Connecticut,Female,2015-2016,Percent,0.26
+State,Connecticut,Male,2015-2016,Percent,0.34
+State,Connecticut,Total 10 to 17,2015-2016,Percent,0.3
+State,Delaware,Female,2015-2016,Percent,0.3
+State,Delaware,Male,2015-2016,Percent,0.32
+State,Delaware,Total 10 to 17,2015-2016,Percent,0.31
+City,District of Columbia,Female,2015-2016,Percent,0.34
+City,District of Columbia,Male,2015-2016,Percent,0.34
+City,District of Columbia,Total 10 to 17,2015-2016,Percent,0.34
+State,Florida,Female,2015-2016,Percent,0.37
+State,Florida,Male,2015-2016,Percent,0.36
+State,Florida,Total 10 to 17,2015-2016,Percent,0.37
+State,Georgia,Female,2015-2016,Percent,0.31
+State,Georgia,Male,2015-2016,Percent,0.34
+State,Georgia,Total 10 to 17,2015-2016,Percent,0.32
+State,Hawaii,Female,2015-2016,Percent,0.25
+State,Hawaii,Male,2015-2016,Percent,0.26
+State,Hawaii,Total 10 to 17,2015-2016,Percent,0.25
+State,Idaho,Female,2015-2016,Percent,0.27
+State,Idaho,Male,2015-2016,Percent,0.25
+State,Idaho,Total 10 to 17,2015-2016,Percent,0.26
+State,Illinois,Female,2015-2016,Percent,0.31
+State,Illinois,Male,2015-2016,Percent,0.23
+State,Illinois,Total 10 to 17,2015-2016,Percent,0.27
+State,Indiana,Female,2015-2016,Percent,0.33
+State,Indiana,Male,2015-2016,Percent,0.34
+State,Indiana,Total 10 to 17,2015-2016,Percent,0.34
+State,Iowa,Female,2015-2016,Percent,0.28
+State,Iowa,Male,2015-2016,Percent,0.33
+State,Iowa,Total 10 to 17,2015-2016,Percent,0.3
+State,Kansas,Female,2015-2016,Percent,0.25
+State,Kansas,Male,2015-2016,Percent,0.37
+State,Kansas,Total 10 to 17,2015-2016,Percent,0.31
+State,Kentucky,Female,2015-2016,Percent,0.27
+State,Kentucky,Male,2015-2016,Percent,0.39
+State,Kentucky,Total 10 to 17,2015-2016,Percent,0.34
+State,Louisiana,Female,2015-2016,Percent,0.29
+State,Louisiana,Male,2015-2016,Percent,0.4
+State,Louisiana,Total 10 to 17,2015-2016,Percent,0.34
+State,Maine,Female,2015-2016,Percent,0.26
+State,Maine,Male,2015-2016,Percent,0.3
+State,Maine,Total 10 to 17,2015-2016,Percent,0.28
+State,Maryland,Female,2015-2016,Percent,0.25
+State,Maryland,Male,2015-2016,Percent,0.41
+State,Maryland,Total 10 to 17,2015-2016,Percent,0.34
+State,Massachusetts,Female,2015-2016,Percent,0.22
+State,Massachusetts,Male,2015-2016,Percent,0.31
+State,Massachusetts,Total 10 to 17,2015-2016,Percent,0.27
+State,Michigan,Female,2015-2016,Percent,0.31
+State,Michigan,Male,2015-2016,Percent,0.33
+State,Michigan,Total 10 to 17,2015-2016,Percent,0.32
+State,Minnesota,Female,2015-2016,Percent,0.24
+State,Minnesota,Male,2015-2016,Percent,0.32
+State,Minnesota,Total 10 to 17,2015-2016,Percent,0.28
+State,Mississippi,Female,2015-2016,Percent,0.36
+State,Mississippi,Male,2015-2016,Percent,0.38
+State,Mississippi,Total 10 to 17,2015-2016,Percent,0.37
+State,Missouri,Female,2015-2016,Percent,0.32
+State,Missouri,Male,2015-2016,Percent,0.27
+State,Missouri,Total 10 to 17,2015-2016,Percent,0.29
+State,Montana,Female,2015-2016,Percent,0.23
+State,Montana,Male,2015-2016,Percent,0.24
+State,Montana,Total 10 to 17,2015-2016,Percent,0.23
+State,Nebraska,Female,2015-2016,Percent,0.28
+State,Nebraska,Male,2015-2016,Percent,0.31
+State,Nebraska,Total 10 to 17,2015-2016,Percent,0.29
+State,Nevada,Female,2015-2016,Percent,0.31
+State,Nevada,Male,2015-2016,Percent,0.3
+State,Nevada,Total 10 to 17,2015-2016,Percent,0.3
+State,New Hampshire,Female,2015-2016,Percent,0.18
+State,New Hampshire,Male,2015-2016,Percent,0.3
+State,New Hampshire,Total 10 to 17,2015-2016,Percent,0.24
+State,New Jersey,Female,2015-2016,Percent,0.24
+State,New Jersey,Male,2015-2016,Percent,0.38
+State,New Jersey,Total 10 to 17,2015-2016,Percent,0.32
+State,New Mexico,Female,2015-2016,Percent,0.24
+State,New Mexico,Male,2015-2016,Percent,0.26
+State,New Mexico,Total 10 to 17,2015-2016,Percent,0.25
+State,New York,Female,2015-2016,Percent,0.26
+State,New York,Male,2015-2016,Percent,0.37
+State,New York,Total 10 to 17,2015-2016,Percent,0.32
+State,North Carolina,Female,2015-2016,Percent,0.34
+State,North Carolina,Male,2015-2016,Percent,0.28
+State,North Carolina,Total 10 to 17,2015-2016,Percent,0.31
+State,North Dakota,Female,2015-2016,Percent,0.36
+State,North Dakota,Male,2015-2016,Percent,0.38
+State,North Dakota,Total 10 to 17,2015-2016,Percent,0.37
+State,Ohio,Female,2015-2016,Percent,0.31
+State,Ohio,Male,2015-2016,Percent,0.36
+State,Ohio,Total 10 to 17,2015-2016,Percent,0.33
+State,Oklahoma,Female,2015-2016,Percent,0.34
+State,Oklahoma,Male,2015-2016,Percent,0.33
+State,Oklahoma,Total 10 to 17,2015-2016,Percent,0.34
+State,Oregon,Female,2015-2016,Percent,0.16
+State,Oregon,Male,2015-2016,Percent,0.24
+State,Oregon,Total 10 to 17,2015-2016,Percent,0.2
+State,Pennsylvania,Female,2015-2016,Percent,0.3
+State,Pennsylvania,Male,2015-2016,Percent,0.33
+State,Pennsylvania,Total 10 to 17,2015-2016,Percent,0.32
+State,Rhode Island,Female,2015-2016,Percent,0.39
+State,Rhode Island,Male,2015-2016,Percent,0.34
+State,Rhode Island,Total 10 to 17,2015-2016,Percent,0.36
+State,South Carolina,Female,2015-2016,Percent,0.29
+State,South Carolina,Male,2015-2016,Percent,0.36
+State,South Carolina,Total 10 to 17,2015-2016,Percent,0.33
+State,South Dakota,Female,2015-2016,Percent,0.24
+State,South Dakota,Male,2015-2016,Percent,0.37
+State,South Dakota,Total 10 to 17,2015-2016,Percent,0.31
+State,Tennessee,Female,2015-2016,Percent,0.33
+State,Tennessee,Male,2015-2016,Percent,0.42
+State,Tennessee,Total 10 to 17,2015-2016,Percent,0.38
+State,Texas,Female,2015-2016,Percent,0.32
+State,Texas,Male,2015-2016,Percent,0.35
+State,Texas,Total 10 to 17,2015-2016,Percent,0.33
+State,Utah,Female,2015-2016,Percent,0.17
+State,Utah,Male,2015-2016,Percent,0.21
+State,Utah,Total 10 to 17,2015-2016,Percent,0.19
+State,Vermont,Female,2015-2016,Percent,0.23
+State,Vermont,Male,2015-2016,Percent,0.21
+State,Vermont,Total 10 to 17,2015-2016,Percent,0.22
+State,Virginia,Female,2015-2016,Percent,0.28
+State,Virginia,Male,2015-2016,Percent,0.27
+State,Virginia,Total 10 to 17,2015-2016,Percent,0.27
+State,Washington,Female,2015-2016,Percent,0.21
+State,Washington,Male,2015-2016,Percent,0.29
+State,Washington,Total 10 to 17,2015-2016,Percent,0.25
+State,West Virginia,Female,2015-2016,Percent,0.33
+State,West Virginia,Male,2015-2016,Percent,0.37
+State,West Virginia,Total 10 to 17,2015-2016,Percent,0.35
+State,Wisconsin,Female,2015-2016,Percent,0.23
+State,Wisconsin,Male,2015-2016,Percent,0.35
+State,Wisconsin,Total 10 to 17,2015-2016,Percent,0.3
+State,Wyoming,Female,2015-2016,Percent,0.28
+State,Wyoming,Male,2015-2016,Percent,0.26
+State,Wyoming,Total 10 to 17,2015-2016,Percent,0.27

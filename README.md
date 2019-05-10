@@ -18,7 +18,7 @@ The raw data provided more information than we wanted, including data for many y
 
 Data munging was performed in Jupyter Notebook with Pandas. See the the included Jupyter Notebooks to reproduce the transformation process.
 
-Mostly, this was whittling down the data to only what we needed. There was some datatype conversion and formatting so that percentages are in {:.1%} format.
+Mostly, this was whittling down the data to only what we needed. There was some datatype conversion and formatting.
 
 ## L - Load
 
@@ -30,13 +30,13 @@ Our final database has one table per parental factor and one table per child suc
 
 # CHILD SUCCESS INDICATORS - Himani
 
-### Indicator: Education:  
+### Education:  
 - College Enrollment rate across all US States
 
-### Indicator: Health
+### Health:
 - Children Obesity rate across all US states
 
-### Indicator: Drug Abuse
+### Drug Abuse:
 - Drug Consumption rate for children in the age group of 12-25 across all US states 
 
 #### Sources for child success indicators:
@@ -46,17 +46,17 @@ Our final database has one table per parental factor and one table per child suc
 # PARENTAL FACTORS - Rosina
 
 ### Education:
-- Children whose head-of-household has less than a high school degree (1)
+- Children whose head-of-household has less than a high school degree [1]
 
 ### Economic:
-- Children in families on Public Assistance (1) 
+- Children in families on Public Assistance [1] 
 
 ### Cultural:
-- Children in Immigrant Families (1)
+- Children in Immigrant Families [1]
 
 ### Health:
-- Children (<=17) without health insurance (1)
-- Breastfeeding, 2015 (2)
+- Children (<=17) without health insurance [1]
+- Breastfeeding, 2015 [2]
 
 #### Sources for parental factors:
 1. https://datacenter.kidscount.org/data#USA/2/0/char/0

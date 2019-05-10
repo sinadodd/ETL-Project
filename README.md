@@ -30,18 +30,18 @@ Our final database has one table per parental factor and one table per child suc
 
 # CHILD SUCCESS INDICATORS - Himani
 
-### Indicator:
--
+### Indicator: Education:  
+- College Enrollment rate across all US States
 
-### Indicator:
--
+### Indicator: Health
+- Children Obesity rate across all US states
 
-### Indicator:
--
+### Indicator: Drug Abuse
+- Drug Consumption rate for children in the age group of 12-25 across all US states 
 
 #### Sources for child success indicators:
 1. https://datacenter.kidscount.org/data#USA/2/0/char/0
-
+2. https://www.samhsa.gov/data/report/2016-2017-nsduh-estimated-totals-state
 
 # PARENTAL FACTORS - Rosina
 
